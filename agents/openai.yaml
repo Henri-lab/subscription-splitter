@@ -1,0 +1,4 @@
+interface:
+  display_name: "订阅系统拆分与边界设计器"
+  short_description: "按时间属性为订阅系统做模块边界与拆分决策的设计技能"
+  default_prompt: "Use $subscription-splitter to 用时间模型评审模块边界与拆分方案。"
